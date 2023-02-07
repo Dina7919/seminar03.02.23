@@ -39,3 +39,12 @@
 слияние
 
 11111
+
+# new branch 3
+
+*writing a code on Java:*
+
+> 1. int c = 5;
+> 2. int a = 7;
+> 3. int b = c + a;
+> 4. System.out.println(b);
