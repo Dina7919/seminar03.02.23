@@ -70,9 +70,16 @@ _ich bin nicht hier_
 
 # Last branch
 
+<<<<<<< HEAD
 ## **Lessons:**
 1. math
 2. history
 3. eanglish
 4. russian
 5. literature
+=======
+## *Ich liebe das Leben! *
+
+* ich liebe meine mutter
+* ich liebe meinen fater
+>>>>>>> new_branch_7
