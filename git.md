@@ -56,3 +56,11 @@
 * Harry Potter
 * Kod Davinchi
 * 1984
+
+# **New branch 6**
+
+## *Deutsch*
+
+* ich bin
+* du bist
+* er/sie/es ist
