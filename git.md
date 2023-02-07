@@ -60,3 +60,10 @@
 # Some new information for branch_6
 
 _ich bin nicht hier_
+# **New branch 6**
+
+## *Deutsch*
+
+* ich bin
+* du bist
+* er/sie/es ist
